@@ -1,4 +1,4 @@
-## what is next.js?
+## What is next.js?
 - next.js is the react framework for production.
 
 - Next.js is a react framework that enables you to build siperfast and extremely user-friendly static website, as well as full fledge production ready web application using react.
